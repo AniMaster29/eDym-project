@@ -1,0 +1,54 @@
+{
+    "resurses_json": [
+        {
+            "title": "test",
+            "author": "test",
+            "p_year": 2343,
+            "stock": 2,
+            "number": "124536",
+            "ISBN": "1234356",
+            "pages": "324"
+        },
+        {
+            "title": "test",
+            "author": "teste",
+            "p_year": 3245,
+            "number": "345467",
+            "stock": 3,
+            "f_format": "pdf",
+            "f_size": "23"
+        },
+        {
+            "title": "1984",
+            "author": "Orwell",
+            "p_year": 1954,
+            "stock": 3,
+            "number": "434567",
+            "ISBN": "1345653",
+            "pages": "432"
+        },
+        {
+            "title": "Animal Farm",
+            "author": "Orwell",
+            "p_year": 1950,
+            "stock": 2,
+            "number": "3478",
+            "ISBN": "6743",
+            "pages": "129"
+        }
+    ],
+    "readers_json": [
+        {
+            "name": "ivan",
+            "number": "123",
+            "rent_books": [
+            ]
+        },
+        {
+            "name": "petar",
+            "number": "123",
+            "rent_books": [
+            ]
+        }
+    ]
+}
